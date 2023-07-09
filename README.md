@@ -1,6 +1,6 @@
 # Electro-Corp
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Electro-Corp)](https://github.com/anuraghazra/github-readme-stats)
-I make stuff in C++/C <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Electro-Corp)](https://github.com/anuraghazra/github-readme-stats)
+<br> I make stuff in C++/C <br>
 I put stuff I make here when it gets to a point that I think is ready to be put here <br>
 Some of my favorites:<br>
 * Stellar Fortress (Terminal graphic RTS): https://github.com/Electro-Corp/Stellar-Fortress
